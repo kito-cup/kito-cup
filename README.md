@@ -56,15 +56,14 @@ public:
 </td>
 </tr>
 </table>
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWV4OWx2ZDdsOGdtaHR4b253eGQyNzFpcTdkZ281eXh4eGRrZTB0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XopT3nOpM9eSSQcm6K/giphy.gif" width="600">
-</div>
+https://github.com/user-attachments/assets/48bcdd11-8d8c-46b8-bce0-5a565d0f2810
 
 ## 📈 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=kito-cup&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kito-cup&layout=compact)
+
+
 
 ---
 
