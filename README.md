@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Hi, I'm Max
+# Hi, I'm Maksyta
 
 ### Future Robotics Engineer
 
@@ -56,7 +56,9 @@ public:
 </td>
 </tr>
 </table>
-![GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWV4OWx2ZDdsOGdtaHR4b253eGQyNzFpcTdkZ281eXh4eGRrZTB0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XopT3nOpM9eSSQcm6K/giphy.gif)
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWV4OWx2ZDdsOGdtaHR4b253eGQyNzFpcTdkZ281eXh4eGRrZTB0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XopT3nOpM9eSSQcm6K/giphy.gif" width="600">
+</div>
 
 ## 📈 GitHub Stats
 
