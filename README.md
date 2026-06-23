@@ -29,34 +29,6 @@ public:
 };
 ```
 <img width="480" height="360" alt="gif (1)" src="https://github.com/user-attachments/assets/29c202a8-8ecd-4e16-b83a-5e275eaa6c77" />
-## 🛠 Current Stack
-
-<table>
-<tr>
-<td>
-
-### Learning
-
-- C++
-- Git
-- Linux
-- Arduino
-
-</td>
-<td>
-
-### Tools
-
-- Premiere Pro
-- After Effects
-- VS Code
-- Arduino IDE
-
-</td>
-</tr>
-</table>
-
-
 ## 📈 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=kito-cup&show_icons=true)
