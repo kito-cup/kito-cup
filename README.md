@@ -56,12 +56,7 @@ public:
 </td>
 </tr>
 </table>
-
-
-
-
-
-
+<img width="480" height="360" alt="gif (1)" src="https://github.com/user-attachments/assets/0c9b838c-3c09-41bf-809e-a21237d8808c" />
 
 ## 📈 GitHub Stats
 
@@ -76,7 +71,7 @@ public:
 
 🟡 C++ Calculator
 🟡 ATM Simulator
-🟡 Симулятор светофора
+🟡 Traffic Light Simulator
 🟡 Smart Home System
 
 ---
