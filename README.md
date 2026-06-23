@@ -8,4 +8,6 @@
 - Linux
 - Arduino
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kito-cup&show_icons=true)
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,git,linux,arduino" />
+</p>
