@@ -56,7 +56,8 @@ public:
 </td>
 </tr>
 </table>
-<img width="480" height="360" alt="gif (1)" src="https://github.com/user-attachments/assets/0c9b838c-3c09-41bf-809e-a21237d8808c" />
+<img width="480" height="360" alt="gif (1)" src="https://github.com/user-attachments/assets/29c202a8-8ecd-4e16-b83a-5e275eaa6c77" />
+
 
 ## 📈 GitHub Stats
 
